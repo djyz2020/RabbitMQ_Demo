@@ -1,2 +1,1 @@
-# RabbitMQ_Demo
-RabbitMQ_Demo
+springboot rabbitmq demo.
